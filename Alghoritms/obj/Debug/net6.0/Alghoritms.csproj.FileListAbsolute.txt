@@ -1,0 +1,15 @@
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/bin/Debug/net6.0/Alghoritms
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/bin/Debug/net6.0/Alghoritms.deps.json
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/bin/Debug/net6.0/Alghoritms.runtimeconfig.json
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/bin/Debug/net6.0/Alghoritms.dll
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/bin/Debug/net6.0/Alghoritms.pdb
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/Alghoritms.csproj.AssemblyReference.cache
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/Alghoritms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/Alghoritms.AssemblyInfoInputs.cache
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/Alghoritms.AssemblyInfo.cs
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/Alghoritms.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/Alghoritms.dll
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/refint/Alghoritms.dll
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/Alghoritms.pdb
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/Alghoritms.genruntimeconfig.cache
+/Users/sh1riyev/Desktop/Alghoritms/Alghoritms/obj/Debug/net6.0/ref/Alghoritms.dll
